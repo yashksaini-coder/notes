@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Code",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "theme": "obsidian",
+  "showRibbon": true,
+  "nativeMenus": false
+}

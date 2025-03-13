@@ -1,0 +1,40 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "NyK6wU-vdcSNPt3FCYsn7",
+      "name": "Blue",
+      "value": "#101eda"
+    },
+    {
+      "id": "5YG_wNTqrlCp59UUbQ6KT",
+      "name": "Red",
+      "value": "#a11212"
+    },
+    {
+      "id": "gE733sso47x2-a6Y2H1c1",
+      "name": "Green",
+      "value": "#28c832"
+    },
+    {
+      "id": "IAAJHdvDzbB6t67PgMhgq",
+      "name": "Teal",
+      "value": "#0e91ad"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Goals",
+      "color": "IAAJHdvDzbB6t67PgMhgq"
+    },
+    {
+      "path": "Projects",
+      "color": "gE733sso47x2-a6Y2H1c1"
+    },
+    {
+      "path": "Leetcode Journal",
+      "color": "NyK6wU-vdcSNPt3FCYsn7"
+    }
+  ]
+}
