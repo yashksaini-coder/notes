@@ -7,7 +7,7 @@ Last week, we understood about `HTTP Servers`
 
 ### What we’re learning today
 
-1. Headers
+1. [[Headers]]
 2. Fetch API in the browser
 3. Query params, Creating our own HTTP Server (Again). Does simple math (sum server)
 4. Middlewares
