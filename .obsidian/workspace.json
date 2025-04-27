@@ -53,10 +53,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-27 22.51.11.excalidraw.md"
+                "file": "Web Dev/MongoDB/Database.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-27 22.51.11.excalidraw"
+              "title": "Database"
             }
           }
         ],
@@ -235,10 +235,10 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "a68ac105664e5ec2",
+  "active": "20c5e42afed7a997",
   "lastOpenFiles": [
     "Structure.md",
-    "Excalidraw/Drawing 2025-04-27 22.51.11.excalidraw.md",
+    "Web Dev/MongoDB/Database.md",
     "Web Dev/MongoDB/3.MongoDB.md",
     "Web Dev/MongoDB/Basics.md",
     "Web Dev/Authentication/Simple Auth application.md",
