@@ -9,6 +9,7 @@ This note will focus on the different projects ideas and builds we are going to 
 - [[Github PR Tracker]]
 - [[Github Aura]]
 - [[Simple Auth application]]
+- [[Mongo Application]]
 ---
 
 # <u>Ideas</u>
