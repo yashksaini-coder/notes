@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Dev/MongoDB/Structure.md",
+                "file": "Web Dev/MongoDB/3.MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure"
+              "title": "3.MongoDB"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "CRUD operations"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Dev/MongoDB/CRUD operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CRUD operations"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Dev/MongoDB/CRUD operations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRUD operations"
+              "title": "Outline"
             }
           }
         ],
@@ -225,17 +222,17 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "cd303728bad4c209",
+  "active": "f403077b0ce755d1",
   "lastOpenFiles": [
+    "Web Dev/MongoDB/3.MongoDB.md",
+    "Web Dev/MongoDB/Basics.md",
     "Web Dev/MongoDB/Structure.md",
-    "Web Dev/Web Dev Cohort-3.md",
     "Web Dev/MongoDB/CRUD operations.md",
+    "Web Dev/Web Dev Cohort-3.md",
     "Pasted image 20250427230016.png",
     "Web Dev/MongoDB/Pasted image 20250427225928.png",
     "Web Dev/MongoDB/Pasted image 20250427225745.png",
     "Web Dev/MongoDB/Database.md",
-    "Web Dev/MongoDB/Basics.md",
-    "Web Dev/MongoDB/3.MongoDB.md",
     "AI/RAG/Basic RAG.excalidraw.md",
     "AI/RAG/RAG.md",
     "Web Dev/Authentication/token.png",

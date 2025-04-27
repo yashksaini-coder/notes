@@ -15,7 +15,8 @@ CRUD operations in MongoDB refer to the basic operations you can perform on docu
 
 ![[Pasted image 20250427230016.png]]
 
-#### 
+#### Example
+
 **Let's assume we have a collection named "students" with documents like this:**
 
 ```javascript
