@@ -172,11 +172,12 @@ module.exports = { auth };
 
 1.  Create a `.env` file in the root directory and add `JWT_SECRET=your_strong_secret_here` (replace `your_strong_secret_here` with a long, randomly generated string).
 
-**Note** I used `base64` encoding from bash
+> **Note** I used `base64` encoding from bash
+> `secret` >> `c2VjcmV0Cg==`
 
 2.  Install dependencies: `npm install express mongoose jsonwebtoken 
 3.  Run the application: `node index.js`
 
 
-Remember to replace `mongodb+srv://admin:root@cluster0.uvlqu.mongodb.net/`
+Remember to replace `mongodb+srv://admin:root@main.cqd4hyx.mongodb.net/test`
 with your actual MongoDB connection string.  This improved version addresses security flaws and provides better error handling.  Always prioritize security when building applications that handle user data.
