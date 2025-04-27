@@ -13,7 +13,7 @@ CRUD operations in MongoDB refer to the basic operations you can perform on docu
 3. **Update**: Modifying existing documents in a collection.
 4. **Delete**: Removing documents from a collection.
 
-![[Pasted image 20250427230016.png]]
+![[crud.png]]
 
 #### Example
 
