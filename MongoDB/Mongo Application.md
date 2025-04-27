@@ -136,7 +136,7 @@ app.listen(3000, () => console.log("Server listening on port 3000"));
 const jwt = require("jsonwebtoken");
 
 const auth = (req, res, next) => {
-    const token = req.headers.authorization?.split(" ")[1]; //Improved token extraction
+    const token = req.headers.token; //Improved token extraction
 
     if (!token) {
         return res.status(401).json({ message: "Authorization token missing" });
