@@ -5,6 +5,26 @@ tags:
 ---
 This outlines building a basic Todo app backend.  Let's fill in the missing pieces and improve security.
 
+##### Pre-stage development:
+
+- Initialise a new Node.js project
+
+```jsx
+npm init -y
+```
+
+- Install dependencies
+
+```jsx
+npm install express mongoose
+```
+
+- Create the skeleton for 4 routes
+    - POST /signup
+    - POST /login
+    - POST /todo (authenticated)
+    - GET /todos (authenticated)
+
 **1. `index.js` (Main Application File):**
 
 ```javascript
