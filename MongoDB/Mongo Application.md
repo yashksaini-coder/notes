@@ -25,6 +25,11 @@ npm install express mongoose
     - POST /todo (authenticated)
     - GET /todos (authenticated)
 
+##### Template code:
+
+``
+
+
 **1. `index.js` (Main Application File):**
 
 ```javascript
