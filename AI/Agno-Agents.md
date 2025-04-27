@@ -1,8 +1,11 @@
+---
+tags:
+  - ai
+---
 
 <div align="center">
 	<img height="100" width="100" src="https://mintlify.s3.us-west-1.amazonaws.com/agno/logo/white.svg">
 </div>
-
 
 **Agents** are *AI programs* that execute tasks autonomously. They solve problems by running tools, accessing knowledge and memory to improve responses. Unlike traditional programs that follow a predefined execution path, agents dynamically adapt their approach based on context, knowledge and tool results.
 

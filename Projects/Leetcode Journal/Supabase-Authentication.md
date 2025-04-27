@@ -1,14 +1,16 @@
 ---
-tags: []
+tags:
+  - project
+  - auth
 date: 3-3-25
 ---
 ---
 ## Problem Solved
 
-I implemented a complete authentication flow using Supabase in my Next.js application with the following features:
+I implemented a complete authentication flow using `Supabase` in my Next.js application with the following features:
 
 - Protected routes with server-side middleware
-- Client-side authentication state management with Zustand
+- Client-side authentication state management with `Zustand`
 - Login and registration functionality
 - Proper redirects based on authentication status
 ## Solution Approach
@@ -216,8 +218,8 @@ export const useAuthStore = create<authStore>((set) => ({
 ---
 
  # Next Steps
-- [ ] Add password reset functionality
-- [ ] Implement email verification
-- [ ] Add social login options
+- [ ] ~~Add password reset functionality
+- [ ] ~~Implement email verification
+- [ ] ~~Add social login options
 
 ---

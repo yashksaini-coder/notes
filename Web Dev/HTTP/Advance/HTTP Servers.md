@@ -1,3 +1,9 @@
+---
+tags:
+  - http
+---
+
+
 It should have 4 routes:-
 
 - [http://localhost:3000/multiply?a=1&b=2](http://localhost:3000/multiply?a=1&b=2)

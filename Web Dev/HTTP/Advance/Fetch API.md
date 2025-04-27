@@ -1,3 +1,9 @@
+---
+tags:
+  - http
+---
+
+
 There are 2 high level ways a browser can send requests to an HTTP server:
 
 ![](https://petal-estimate-4e9.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F085e8ad8-528e-47d7-8922-a23dc4016453%2F90f9e2cf-45f0-4502-abb5-9a7c3543dbec%2FScreenshot_2024-08-31_at_6.59.39_PM.png?table=block&id=267c0225-7500-449b-b5fb-35bdf1036c78&spaceId=085e8ad8-528e-47d7-8922-a23dc4016453&width=1420&userId=&cache=v2)

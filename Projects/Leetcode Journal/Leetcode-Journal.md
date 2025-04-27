@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - project
 ---
 [Leetcode Journal](https://leetcode-journal.vercel.app/)
 
@@ -33,5 +34,5 @@ Leetcode Journal leverages cutting-edge technologies to deliver a seamless user 
 
 Key areas:
 
-- [[Authentication]]
+- [[Supabase-Authentication]]
 

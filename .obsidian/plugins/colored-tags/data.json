@@ -14,7 +14,15 @@
     "Medium": 2,
     "excalidraw": 3,
     "project": 4,
-    "excali": 5
+    "excali": 5,
+    "auth": 6,
+    "ai": 7,
+    "http": 8,
+    "root": 9,
+    "typescript": 10,
+    "rag": 11,
+    "db": 12,
+    "mongo": 13
   },
   "_version": 3
 }

@@ -4,20 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "4cfe427e5db74a8a",
+        "id": "f91dbe57b159a11c",
         "type": "tabs",
         "children": [
           {
-            "id": "d2f36c71d52468c7",
+            "id": "f403077b0ce755d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e2d869f5a973cf4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev/Authentication/Express App.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Express App"
+            }
+          },
+          {
+            "id": "57c667674fbf967c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev/Authentication/Simple Auth application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple Auth application"
+            }
+          },
+          {
+            "id": "af82d66d0dea1566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev/Authentication/Simple Auth application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple Auth application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +81,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -85,7 +130,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "289ca36eb8fb0ea7",
+            "id": "ce8a9832db9acab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "709dc9a4092063d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46ed05dcc839c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aec28947a3d69d06",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -95,24 +186,44 @@
             }
           },
           {
-            "id": "a4f480803210bbe8",
+            "id": "8ce76bbf56734498",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cccddbeded5e695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -121,53 +232,56 @@
       "templates:Insert template": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a4f480803210bbe8",
+  "active": "e2d869f5a973cf4b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Projects/Investo-Glow.md",
-    "Projects/Project.md",
-    "GH-Contribution-Extension.md",
-    "Projects/GH-Contribution-Extension.md",
-    "gh-contribution.webm.md",
-    "Excalidraw/git-graph-card.md",
-    "Projects/Leetcode Journal/Authentication.md",
+    "Web Dev/Authentication/auth-jwt.png",
+    "Web Dev/MongoDB/3.MongoDB.md",
+    "Web Dev/Authentication/Simple Auth application.md",
+    "TODO application.md",
+    "Web Dev/Authentication/2.Auth.md",
+    "Projects/Leetcode Journal/Supabase-Authentication.md",
     "Projects/Leetcode Journal/Leetcode-Journal.md",
-    "Projects/Portfolio.md",
+    "Web Dev/Web Dev Cohort-3.md",
+    "Web Dev/HTTP/Advance/1.HTTP (Advance).md",
+    "Web Dev/MongoDB",
+    "AI/RAG/Basic RAG.excalidraw.md",
+    "AI/RAG/RAG.md",
+    "AI/Typescrpit + Langbase.md",
+    "AI/Mastra + mem0.md",
+    "AI/AI.md",
+    "AI/Agno-Agents.md",
+    "README.md",
+    "Goals/Goals.md",
+    "AI/RAG",
+    "AI/RAG",
+    "Excalidraw",
+    "2025-04-25.md",
+    "Projects/Project.md",
+    "Projects/Investo Glow/Investo-Glow.md",
+    "Projects/Investo Glow/Investo-server.md",
+    "Projects/Investo Glow",
+    "Projects/Github Aura.md",
+    "Projects/Github PR Tracker.md",
     "Projects/Git graph.md",
+    "Pasted image 20250423004511.png",
+    "Web Dev/HTTP/Advance/Headers.md",
+    "Web Dev/Authentication/Express App.md",
+    "Web Dev/Authentication/jwt-success.png",
+    "Web Dev/Authentication/token.png",
+    "Web Dev/Authentication/auth-headers.png",
+    "Web Dev/Authentication/main-authentication.png",
+    "Web Dev",
+    "Web Dev/Authentication",
     "Pasted Image 20250308205618_712.png",
     "Pasted Image 20250308205618_740.png",
     "Pasted Image 20250308205618_747.png",
     "Pasted Image 20250308205618_751.png",
-    "Pasted Image 20250308205618_734.png",
-    "Excalidraw/Untitled.md",
-    "Pasted image 20250308205415.png",
     "gh-contribution.mp4",
     "gh-contribution.webm",
     "Javascript",
-    "Goals/Goals.md",
-    "Goals/Major Goals.md",
-    "Goals/Minor Goals.md",
-    "Excalidraw/Drawing 2025-03-04 20.00.39.excalidraw.md",
-    "Excalidraw",
-    "Projects/Leetcode Journal",
-    "auth.md",
-    "2025-03-02.md",
-    "2025-02-23.md",
-    "2025-02-20.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Projects",
-    "Goals",
-    "Untitled.canvas",
-    "Projects"
+    "Untitled.canvas"
   ]
 }
