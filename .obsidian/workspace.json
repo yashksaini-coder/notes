@@ -47,8 +47,7 @@
               "title": "Mongo Application"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB/Mongo Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mongo Application"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB/Mongo Application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mongo Application"
+              "title": "Outline"
             }
           }
         ],
@@ -225,10 +222,10 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "5e2560c12fff1a24",
+  "active": "f403077b0ce755d1",
   "lastOpenFiles": [
-    "MongoDB/3.MongoDB.md",
     "MongoDB/Mongo Application.md",
+    "MongoDB/3.MongoDB.md",
     "Web Dev/Web Dev Cohort-3.md",
     "Projects/Project.md",
     "MongoDB/Basics.md",
