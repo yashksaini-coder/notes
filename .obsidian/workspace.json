@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Structure"
             }
+          },
+          {
+            "id": "cd303728bad4c209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRUD operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRUD operations"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Dev/MongoDB/Structure.md",
+                "file": "CRUD operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Structure"
+              "title": "Backlinks for CRUD operations"
             }
           },
           {
@@ -178,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Dev/MongoDB/Structure.md",
+                "file": "CRUD operations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structure"
+              "title": "Outline of CRUD operations"
             }
           }
         ],
@@ -211,11 +225,13 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "c3c81799a6be58c2",
+  "active": "cd303728bad4c209",
   "lastOpenFiles": [
-    "Web Dev/MongoDB/Pasted image 20250427225745.png",
-    "Web Dev/MongoDB/Pasted image 20250427225928.png",
     "Web Dev/MongoDB/Structure.md",
+    "CRUD operations.md",
+    "Pasted image 20250427230016.png",
+    "Web Dev/MongoDB/Pasted image 20250427225928.png",
+    "Web Dev/MongoDB/Pasted image 20250427225745.png",
     "Web Dev/MongoDB/Database.md",
     "Web Dev/MongoDB/Basics.md",
     "Web Dev/MongoDB/3.MongoDB.md",
@@ -254,7 +270,6 @@
     "Web Dev",
     "Web Dev/Authentication",
     "Pasted Image 20250308205618_712.png",
-    "Pasted Image 20250308205618_740.png",
     "gh-contribution.mp4",
     "gh-contribution.webm",
     "Javascript",

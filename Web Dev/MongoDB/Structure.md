@@ -8,8 +8,4 @@ The structure of a simple database commonly seen in apps depends heavily on the 
 
 ![[Pasted image 20250427225745.png]]
 
-[[Database]]![[Pasted image 20250427225928.png]]
-
-
-
-
+![[Pasted image 20250427230016.png]]
