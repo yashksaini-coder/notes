@@ -99,7 +99,7 @@ app.post("/todo", auth, async (req, res) => {
         const { title, done } = req.body;
         const newTodo = await TodoModel.create({ userId: req.userId, title, done });
         res.status(201).json(newTodo);
-    } catch (error) {
+	    } catch (error) {
         console.error("Create todo error:", error);
         res.status(500).json({ error: "Failed to create todo" });
     }
