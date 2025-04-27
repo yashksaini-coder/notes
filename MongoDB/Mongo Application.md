@@ -171,7 +171,9 @@ module.exports = { auth };
 **To run the application:**
 
 1.  Create a `.env` file in the root directory and add `JWT_SECRET=your_strong_secret_here` (replace `your_strong_secret_here` with a long, randomly generated string).
-> I used base
+
+**Note** I used `base64` encoding from bash
+
 2.  Install dependencies: `npm install express mongoose jsonwebtoken 
 3.  Run the application: `node index.js`
 
