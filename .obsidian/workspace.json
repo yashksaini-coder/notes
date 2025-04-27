@@ -34,20 +34,21 @@
             }
           },
           {
-            "id": "af82d66d0dea1566",
+            "id": "d54f3149f12ed47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Dev/Authentication/Simple Auth application.md",
+                "file": "Projects/Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Auth application"
+              "title": "Project"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,12 +223,12 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "f403077b0ce755d1",
+  "active": "d54f3149f12ed47a",
   "lastOpenFiles": [
+    "Web Dev/Authentication/Simple Auth application.md",
     "Web Dev/Authentication/Express App.md",
     "Web Dev/Authentication/auth-jwt.png",
     "Web Dev/MongoDB/3.MongoDB.md",
-    "Web Dev/Authentication/Simple Auth application.md",
     "TODO application.md",
     "Web Dev/Authentication/2.Auth.md",
     "Projects/Leetcode Journal/Supabase-Authentication.md",

@@ -8,6 +8,7 @@ This note will focus on the different projects ideas and builds we are going to 
 - [[Git graph]]
 - [[Github PR Tracker]]
 - [[Github Aura]]
+- [[Au]]
 ---
 
 # <u>Ideas</u>
