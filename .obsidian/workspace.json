@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRUD operations.md",
+                "file": "Web Dev/MongoDB/CRUD operations.md",
                 "mode": "source",
                 "source": false
               },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRUD operations.md",
+                "file": "Web Dev/MongoDB/CRUD operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRUD operations.md",
+                "file": "Web Dev/MongoDB/CRUD operations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,14 +228,14 @@
   "active": "cd303728bad4c209",
   "lastOpenFiles": [
     "Web Dev/MongoDB/Structure.md",
-    "CRUD operations.md",
+    "Web Dev/Web Dev Cohort-3.md",
+    "Web Dev/MongoDB/CRUD operations.md",
     "Pasted image 20250427230016.png",
     "Web Dev/MongoDB/Pasted image 20250427225928.png",
     "Web Dev/MongoDB/Pasted image 20250427225745.png",
     "Web Dev/MongoDB/Database.md",
     "Web Dev/MongoDB/Basics.md",
     "Web Dev/MongoDB/3.MongoDB.md",
-    "Web Dev/Web Dev Cohort-3.md",
     "AI/RAG/Basic RAG.excalidraw.md",
     "AI/RAG/RAG.md",
     "Web Dev/Authentication/token.png",
