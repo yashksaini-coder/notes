@@ -80,55 +80,30 @@ app.post("/signup", async (req, res) => {
 });
 
 app.post("/signin", async function(req, res) {
-
     const email = req.body.email;
-
     const password = req.body.password;
-
-  
-
+      
     const foundUser = await user.findOne({
-
         email: email,
-
         password: password
-
     });
-
   
-
     console.log(foundUser);
-
     // If the user is found, create a JWT token and send it back to the client
 
-  
-
     if(foundUser) {
-
         const token = jwt.sign({
-
             id: foundUser._id,
-
         }, JWT_SECRET);
-
         res.json({
-
             message: "User signed in successfully",
-
             token: token
-
         });
-
     } else {
-
         res.status(401).json({
-
             message: "Invalid username or password"
-
         });
-
     }
-
 });
 
 app.post("/todo", auth, async (req, res) => {
