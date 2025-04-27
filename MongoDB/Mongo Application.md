@@ -141,4 +141,5 @@ module.exports = { auth };
 3.  Run the application: `node index.js`
 
 
-Remember to replace `"mongodb+srv://gasfgfafa:Aa5jxKhylWdFhv4v@cluster0.7kmvq.mongodb.net/todo-app"` with your actual MongoDB connection string.  This improved version addresses security flaws and provides better error handling.  Always prioritize security when building applications that handle user data.
+Remember to replace `mongodb+srv://admin:root@cluster0.uvlqu.mongodb.net/`
+with your actual MongoDB connection string.  This improved version addresses security flaws and provides better error handling.  Always prioritize security when building applications that handle user data.
