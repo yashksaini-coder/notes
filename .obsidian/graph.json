@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "path:\"Web Dev/MongoDB\"",
+      "query": "tag:#mongo  ",
       "color": {
         "a": 1,
         "rgb": 2483269
@@ -95,6 +95,6 @@
   "repelStrength": 10.1351351351351,
   "linkStrength": 1,
   "linkDistance": 79,
-  "scale": 0.38094184437292683,
-  "close": true
+  "scale": 0.6671922664285432,
+  "close": false
 }

@@ -67,16 +67,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mongo Application.md",
+                "file": "Web Dev/MongoDB/3.MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongo Application"
+              "title": "3.MongoDB"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongo Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mongo Application"
+              "title": "Backlinks"
             }
           },
           {
@@ -220,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mongo Application.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mongo Application"
+              "title": "Outline"
             }
           }
         ],
@@ -253,14 +250,14 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "0f073dceb0fc27f1",
+  "active": "f403077b0ce755d1",
   "lastOpenFiles": [
     "Web Dev/MongoDB/3.MongoDB.md",
-    "Mongo Application.md",
+    "Web Dev/MongoDB/Basics.md",
+    "Web Dev/MongoDB/Mongo Application.md",
     "Pasted image 20250427230016.png",
     "Web Dev/MongoDB/Pasted image 20250427225745.png",
     "Web Dev/MongoDB/Pasted image 20250427225928.png",
-    "Web Dev/MongoDB/Basics.md",
     "Web Dev/MongoDB/Structure.md",
     "Web Dev/MongoDB/CRUD operations.md",
     "Web Dev/Web Dev Cohort-3.md",
