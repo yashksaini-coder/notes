@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "ce51fadb1596e274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Dev/MongoDB/3.MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.MongoDB"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +194,13 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "ce51fadb1596e274",
+  "active": "f403077b0ce755d1",
   "lastOpenFiles": [
+    "Web Dev/MongoDB/3.MongoDB.md",
     "Web Dev/Authentication/Simple Auth application.md",
     "Projects/Project.md",
     "Web Dev/Authentication/Express App.md",
     "Web Dev/Authentication/auth-jwt.png",
-    "Web Dev/MongoDB/3.MongoDB.md",
     "TODO application.md",
     "Web Dev/Authentication/2.Auth.md",
     "Projects/Leetcode Journal/Supabase-Authentication.md",
