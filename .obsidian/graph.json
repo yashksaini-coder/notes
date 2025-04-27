@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#ai  ",
@@ -78,10 +78,10 @@
       }
     },
     {
-      "query": "tag:#mongo ",
+      "query": "path:\"Web Dev/MongoDB\"",
       "color": {
         "a": 1,
-        "rgb": 3599478
+        "rgb": 2483269
       }
     }
   ],
@@ -96,5 +96,5 @@
   "linkStrength": 1,
   "linkDistance": 79,
   "scale": 0.38094184437292683,
-  "close": false
+  "close": true
 }
