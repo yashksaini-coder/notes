@@ -39,7 +39,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing.md",
+                "file": "MongoDB/Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hashing"
+            }
+          },
+          {
+            "id": "494c0a20e49b8dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB/Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hashing"
+            }
+          },
+          {
+            "id": "1460eb42d1fa94c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB/Hashing.md",
                 "mode": "source",
                 "source": false
               },
@@ -48,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashing.md",
+                "file": "MongoDB/Hashing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,10 +252,11 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "dbbe7480bf57251c",
+  "active": "1460eb42d1fa94c7",
   "lastOpenFiles": [
-    "Hashing.md",
     "MongoDB/3.MongoDB.md",
+    "MongoDB/Hashing.md",
+    "MongoDB/Salting.md",
     "MongoDB/Mongo Application.md",
     "MongoDB/CRUD operations.md",
     "Pasted image 20250427230016.png.md",
@@ -258,7 +287,6 @@
     "AI/AI.md",
     "AI/Agno-Agents.md",
     "README.md",
-    "Goals/Goals.md",
     "AI/RAG",
     "AI/RAG",
     "Excalidraw",
