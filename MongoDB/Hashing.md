@@ -77,4 +77,29 @@ app.post("/signup", async function(req, res) {
 ```
 
 - `signin` endpoint to decrypt the hashed password:-
-- 
+
+```javascript
+app.post("/signin", async function(req, res) {
+    const email = req.body.email;
+    const password = req.body.password;
+
+    const user = await UserModel.findOne({
+        email: email,
+    });
+
+    const passwordMatch = bcrypt.compare(password, user.password);
+    if (user && passwordMatch) {
+        const token = jwt.sign({
+            id: user._id.toString()
+        }, JWT_SECRET);
+
+        res.json({
+            token
+        })
+    } else {
+        res.status(403).json({
+            message: "Incorrect creds"
+        })
+    }
+});
+```
