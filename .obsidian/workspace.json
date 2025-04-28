@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f403077b0ce755d1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "cc46735d4c288377",
             "type": "leaf",
             "state": {
@@ -208,7 +196,7 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "f403077b0ce755d1",
+  "active": "cc46735d4c288377",
   "lastOpenFiles": [
     "MongoDB/Mongo Application.md",
     "MongoDB/CRUD operations.md",
