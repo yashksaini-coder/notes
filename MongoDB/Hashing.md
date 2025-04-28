@@ -39,19 +39,29 @@ Many different hashing algorithms exist, each with its strengths and weaknesses.
 * **SHA-256/SHA-512:**  Widely used and generally considered secure members of the SHA-2 family.
 * **bcrypt:** Specifically designed for password hashing, it's resistant to brute-force and rainbow table attacks.  It incorporates a "salt" (a random value unique to each password) to further enhance security, making it much harder for attackers to pre-compute hashes.  This is what your example code utilizes.
 * **scrypt:** Another password hashing function designed for resistance against hardware-accelerated attacks.
-### **Examples**
 
-- hashed `signup` endpoint:-
+> Official [bcrypt](https://www.npmjs.com/package/bcrypt) package 
+
+### **Example**
+
+- import bcrypt package
+```javascript
+const bcrypt  = require("bcrypt")
+```
+
+- `signup` endpoint with hashed feature:-
 
 ```javascript
 app.post("/signup", async function(req, res) {
     const username = req.body.username;
     const password = req.body.password;
     const email = req.body.email;
-	  
+
+	const hashed = await bcrypt.hash(password,10)
+
     await user.create({
         username: username,
-        password: password,
+        password: hashed,
         email: email
     });
   
@@ -65,3 +75,6 @@ app.post("/signup", async function(req, res) {
     });
 });
 ```
+
+- `signin` endpoint to decrypt the hashed password:-
+- 
