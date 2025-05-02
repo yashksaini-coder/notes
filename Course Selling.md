@@ -1,7 +1,0 @@
----
-tags:
-  - project
-  - mongo
----
----
-
