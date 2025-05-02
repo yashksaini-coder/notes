@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f91dbe57b159a11c",
+        "id": "2906418e1bd5413e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc46735d4c288377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/3.MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.MongoDB"
-            }
-          },
-          {
-            "id": "d59bfacea7f89b21",
+            "id": "0fc167372823a603",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -32,65 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "dbbe7480bf57251c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hashing"
-            }
-          },
-          {
-            "id": "494c0a20e49b8dd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hashing"
-            }
-          },
-          {
-            "id": "1460eb42d1fa94c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/3.MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.MongoDB"
-            }
-          },
-          {
-            "id": "bfdf5510cb889466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error Handling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Error Handling"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Error Handling"
+              "title": "Outline"
             }
           }
         ],
@@ -266,10 +194,14 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "bfdf5510cb889466",
+  "active": "0fc167372823a603",
   "lastOpenFiles": [
-    "Error Handling.md",
+    "MongoDB/Relationships II.md",
+    "Zod (Input Validation).md",
     "MongoDB/3.MongoDB.md",
+    "MongoDB/Relationships.md",
+    "MongoDB/Basics.md",
+    "MongoDB/Error Handling.md",
     "MongoDB/Hashing.md",
     "MongoDB/Salting.md",
     "MongoDB/Mongo Application.md",
@@ -277,7 +209,6 @@
     "Pasted image 20250427230016.png.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
-    "MongoDB/Basics.md",
     "Web Dev/Web Dev Cohort-3.md",
     "Projects/Project.md",
     "Pasted image 20250427230016.png",
@@ -298,9 +229,6 @@
     "HTTP/Advance/1.HTTP (Advance).md",
     "MongoDB",
     "AI/Typescrpit + Langbase.md",
-    "AI/Mastra + mem0.md",
-    "AI/AI.md",
-    "AI/Agno-Agents.md",
     "AI/RAG",
     "AI/RAG",
     "Excalidraw",
