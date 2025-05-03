@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2906418e1bd5413e",
+        "id": "1ca9aeb48787127b",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc167372823a603",
+            "id": "ceafdac1e44f11c9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -194,7 +194,7 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "0fc167372823a603",
+  "active": "ceafdac1e44f11c9",
   "lastOpenFiles": [
     "Backend/Router.md",
     "Web Dev/Web Dev Cohort-3.md",
