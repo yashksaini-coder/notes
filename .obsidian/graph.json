@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 2483269
       }
+    },
+    {
+      "query": "tag:#backend  ",
+      "color": {
+        "a": 1,
+        "rgb": 12717985
+      }
     }
   ],
   "collapse-display": true,
