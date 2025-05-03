@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca9aeb48787127b",
+        "id": "844540e36b8ab4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "ceafdac1e44f11c9",
+            "id": "6b02df86f9189a4a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -194,11 +194,14 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "ceafdac1e44f11c9",
+  "active": "6b02df86f9189a4a",
   "lastOpenFiles": [
-    "Backend/Router.md",
-    "Web Dev/Web Dev Cohort-3.md",
     "Backend/BACKEND.md",
+    "HTTP/Advance/Fetch API.md",
+    "HTTP/Advance/Headers.md",
+    "HTTP/Advance/HTTP Servers.md",
+    "Backend/Router 101.md",
+    "Web Dev/Web Dev Cohort-3.md",
     "Backend",
     "MongoDB/Zod (Input Validation).md",
     "Course Selling.md",
@@ -226,9 +229,6 @@
     "Authentication/Simple Auth application.md",
     "Authentication/Express App.md",
     "Authentication/auth-jwt.png",
-    "TODO application.md",
-    "Authentication/2.Auth.md",
-    "Projects/Leetcode Journal/Supabase-Authentication.md",
     "MongoDB",
     "AI/RAG",
     "AI/RAG",

@@ -2,7 +2,7 @@
 tags:
   - http
 ---
-
+---
 
 There are 2 high level ways a browser can send requests to an HTTP server:
 
