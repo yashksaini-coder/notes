@@ -30,4 +30,8 @@ This note will focus on the different projects ideas and builds we are going to 
   
   Great point if we can create this into a proper SaaS type thing, where users can come sign up, and channels and then add a custom message to send the twitter post link along with that message.
 
+- An MCP that can be used with using claude and obsidian. For Quira quest.
+
+- A github action to get sponsors data of a user.
+
 
