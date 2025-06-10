@@ -19,6 +19,7 @@ This note will focus on the different projects ideas and builds we are going to 
 - CLI tool that lets me spin `turbo-repo`, `react.js`, `vite`, `vue`, `next.js`, `express`, with Auth implemented.
 - Create a turbo or mono repo project, idea is to build a server to fetch Youtube transcript and summarize it, then create a good minimal UI frontend application for it to process and display that data. Possibly make the UI more like retro terminal like.
 - A great project IDEA where one can connect and integrate with other socials and they can write posts, tweets, photos or generated image photos, also with proper profile, dashboard, settings, insights and analytics, section too, schedule AI agents to post, 
-
+- Build a rust based discord bot, with file read and access option, using mentions and all. For reference see this:- **[rustcentral](https://github.com/rustcentral/bot)**
+- 
 
 
