@@ -34,8 +34,9 @@ This note will focus on the different projects ideas and builds we are going to 
 
 - A github action to get sponsors data of a user.
 
-- An agno agent that can be used to fetch github day insights and then use it to post on twitter using the agno + mem0 setup. 
+- An agno agent that can be used to fetch github day insights and then use it to post on twitter, and use mem0 to create stateful agents, using the agno + mem0 setup. 
   
-  Additional ocMost probably create a simple nextjs app where users can also signup, then select agents to shitpost, and then use github service as an extra tool, great idea
+  Additional context:- Most probably create a simple nextjs app where users can also signup, then select agents to shitpost, and then use github service as an extra tool, great idea
+
 
 
