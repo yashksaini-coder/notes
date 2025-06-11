@@ -3772,5 +3772,3 @@ function removeCSS() {
     el.remove();
   });
 }
-
-/* nosourcemap */

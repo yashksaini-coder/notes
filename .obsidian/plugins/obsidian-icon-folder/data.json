@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGoal",
-      "LiGitCompareArrows"
+      "🖋",
+      "✏",
+      "📸",
+      "💰",
+      "📖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,18 +22,27 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
-    "iconInFrontmatterFieldName": "icon",
-    "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
     "debugMode": false,
+    "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "Projects": "LiGitCompareArrows",
-  "Goals": "LiGoal"
+  "Personal": "LiUserRoundCog",
+  "Journal": "📖",
+  "z_Assets": "LiArchive",
+  "Blue": "🚠",
+  "Technical": "👨‍💻",
+  "Persoanl": "🏌",
+  "Z_assets": "🌦",
+  "Z_pdfs": "🔖",
+  "Business": "💰",
+  "Vlog": "📸",
+  "Blog": "🖋"
 }

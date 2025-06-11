@@ -8,10 +8,9 @@
   "setCancelledDate": true,
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
-  "autoSuggestMaxItems": 20,
+  "autoSuggestMaxItems": 6,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": false,
-  "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,
   "statusSettings": {
@@ -58,8 +57,7 @@
   },
   "debugSettings": {
     "ignoreSortInstructions": false,
-    "showTaskHiddenData": false,
-    "recordTimings": false
+    "showTaskHiddenData": false
   },
   "loggingOptions": {
     "minLevels": {

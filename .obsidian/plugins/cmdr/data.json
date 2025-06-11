@@ -5,9 +5,9 @@
   "editorMenu": [],
   "fileMenu": [
     {
-      "id": "markdown:add-metadata-property",
-      "icon": "lucide-plus-circle",
-      "name": "Add file property",
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-search",
+      "name": "Omnisearch: Vault search",
       "mode": "any"
     }
   ],
@@ -18,7 +18,7 @@
   "pageHeader": [
     {
       "id": "omnisearch:show-modal",
-      "icon": "lucide-search-x",
+      "icon": "lucide-search",
       "name": "Omnisearch: Vault search",
       "mode": "any"
     }
