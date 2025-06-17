@@ -267,7 +267,9 @@
     "High": 79,
     "Medium": 80,
     "http": 81,
-    "mongo": 82
+    "mongo": 82,
+    "devops": 83,
+    "docker": 84
   },
   "_version": 3
 }
