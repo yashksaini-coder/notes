@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Push to Docker Hub.md",
+                "file": "DevOps/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Push to Docker Hub"
+              "title": "Docker"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "25945e47b831f7f0",
   "lastOpenFiles": [
-    "Authentication/Simple Auth application.md",
-    "Web Dev/Web Dev Cohort-3.md",
     "DevOps/Docker.md",
     "DevOps/Push to Docker Hub.md",
+    "Authentication/Simple Auth application.md",
+    "Web Dev/Web Dev Cohort-3.md",
     "Backend/BACKEND.md",
     "DevOps/Docker",
     "DevOps",
