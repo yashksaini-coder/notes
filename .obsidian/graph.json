@@ -90,6 +90,20 @@
         "a": 1,
         "rgb": 12717985
       }
+    },
+    {
+      "query": "tag:#docker  ",
+      "color": {
+        "a": 1,
+        "rgb": 768756
+      }
+    },
+    {
+      "query": "tag:#devops ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -103,5 +117,5 @@
   "linkStrength": 1,
   "linkDistance": 79,
   "scale": 0.3341665187607717,
-  "close": true
+  "close": false
 }
