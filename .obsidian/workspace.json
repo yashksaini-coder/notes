@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7118fa0cf147ca",
+        "id": "d4296b4d1d7cc3ff",
         "type": "tabs",
         "children": [
           {
-            "id": "25945e47b831f7f0",
+            "id": "199c611b9d2199bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Projects/Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Project"
             }
           }
         ]
@@ -196,10 +196,11 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "25945e47b831f7f0",
+  "active": "20c5e42afed7a997",
   "lastOpenFiles": [
+    "Projects/Leetcode Journal/Leetcode-Journal.md",
     "Projects/Project.md",
-    "Ideas.md",
+    "Projects/Ideas.md",
     "DevOps/Docker.md",
     "DevOps/Push to Docker Hub.md",
     "Authentication/Simple Auth application.md",
@@ -229,7 +230,6 @@
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
     "MongoDB/Structure.md",
-    "Web Dev/MongoDB/Database.md",
     "Authentication/token.png",
     "Authentication/jwt-success.png",
     "Authentication/auth-jwt.png",

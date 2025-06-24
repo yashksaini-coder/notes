@@ -3,7 +3,7 @@ tags:
   - project
 ---
 ---
-## <u>Ideas</u>
+## <u>Project Ideas</u>
 
 - A Go based terminal that can be used to fetch Leetcode data, and solve Leetcode questions.
 
