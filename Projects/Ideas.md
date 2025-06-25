@@ -5,7 +5,7 @@ tags:
 ---
 ## <u>Project Ideas</u>
 
-- A Go based terminal that can be used to fetch Leetcode data, and solve Leetcode questions.
+- A Go based terminal that can be used to fetch Leetcode data, and solve Leetcode questions (hard).
 
 - A new markdown system, that allows `css` animations to the markdown md files.
 
@@ -31,5 +31,6 @@ tags:
   
   Additional context:- Most probably create a simple nextjs app where users can also signup, then select agents to shitpost, and then use github service as an extra tool, great idea
 
+- A chainlit web app gui, to generate video animations using the python sdk manim. this is to ensure proper allowance, of the system.  Gotta deploy it on the Digital Ocean or GCP.
 
 
