@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4296b4d1d7cc3ff",
+        "id": "e3798aaeddaedef2",
         "type": "tabs",
         "children": [
           {
-            "id": "199c611b9d2199bb",
+            "id": "c03ac786ce866788",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,13 +192,13 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "199c611b9d2199bb",
+  "active": "c03ac786ce866788",
   "lastOpenFiles": [
+    "DevOps/Push to Docker Hub.md",
     "Projects/Ideas.md",
     "Projects/Project.md",
     "Projects/Leetcode Journal/Leetcode-Journal.md",
     "DevOps/Docker.md",
-    "DevOps/Push to Docker Hub.md",
     "Authentication/Simple Auth application.md",
     "Web Dev/Web Dev Cohort-3.md",
     "Backend/BACKEND.md",
