@@ -269,7 +269,9 @@
     "http": 81,
     "mongo": 82,
     "devops": 83,
-    "docker": 84
+    "docker": 84,
+    "python": 85,
+    "mindsdb": 86
   },
   "_version": 3
 }

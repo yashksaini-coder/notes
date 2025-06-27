@@ -11,10 +11,14 @@
             "id": "ab117d6451955505",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MindsDB commands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MindsDB commands"
             }
           }
         ]
@@ -194,6 +198,7 @@
   },
   "active": "ab117d6451955505",
   "lastOpenFiles": [
+    "MindsDB commands.md",
     "DevOps/Push to Docker Hub.md",
     "Projects/Ideas.md",
     "Projects/Project.md",
@@ -225,7 +230,6 @@
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
-    "MongoDB/Structure.md",
     "Authentication/token.png",
     "Authentication/jwt-success.png",
     "Authentication/auth-jwt.png",
