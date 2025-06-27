@@ -52,7 +52,7 @@ FROM my_hackernews.stories
 LIMIT 5;
 ```
 
-#### ### Generate Summaries for HackerNews Stories
+#### Generate Summaries for HackerNews Stories
 
 Now you can use your AI table to generate summaries for the HackerNews stories:
 
@@ -63,8 +63,52 @@ SELECT
     hn.url,
     hn.score,
     ai.summary
-FROM my_hackernews.hnstories AS hn
+FROM my_hackernews.stories AS hn
 JOIN story_summarizer AS ai
 WHERE hn.title IS NOT NULL
 LIMIT 10;
 ```
+
+### Advanced Usage - Summarizing with Context
+
+If you want to include more context in your summaries, you can create a model that uses multiple fields:
+
+```sql
+CREATE MODEL detailed_hn_summarizer
+PREDICT detailed_summary
+USING
+    engine = 'google_gemini_engine',
+    model_name = 'gemini-2.0-flash',
+    prompt_template = 'Summarize this HackerNews story. Title: {{title}}. URL: {{url}}. Score: {{score}}. Provide a brief, informative summary focusing on the technical content and significance.';
+```
+
+Then query it like this:
+
+```sql
+SELECT 
+    hn.title,
+    hn.url,
+    hn.score,
+    ai.detailed_summary
+FROM my_hackernews.stories AS hn
+JOIN detailed_hn_summarizer AS ai
+WHERE hn.score > 100  -- Only high-scoring stories
+LIMIT 5;
+```
+
+#### Query Individual Stories
+
+You can also generate summaries for specific stories:
+
+```sql
+SELECT story, summary
+FROM story_summarizer
+WHERE story = 'Your specific HackerNews story title or text here';
+```
+
+## Key Points to Remember
+
+1. **API Key**: Make sure you have a valid Google Gemini API key
+2. **Rate Limits**: Be mindful of API rate limits when processing large batches
+3. **Data Fields**: The HackerNews integration provides fields like `title`, `url`, `score`, `text`, etc.
+4. **Model Flexibility**: You can customize the `prompt_template` to get different types of summaries
