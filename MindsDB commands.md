@@ -112,3 +112,5 @@ WHERE story = 'Your specific HackerNews story title or text here';
 2. **Rate Limits**: Be mindful of API rate limits when processing large batches
 3. **Data Fields**: The HackerNews integration provides fields like `title`, `url`, `score`, `text`, etc.
 4. **Model Flexibility**: You can customize the `prompt_template` to get different types of summaries
+
+---
