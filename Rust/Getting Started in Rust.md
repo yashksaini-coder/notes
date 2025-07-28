@@ -1,6 +1,7 @@
 ---
 tags:
   - rust
+  - root
 date: 28-07-2025
 ---
 ---
@@ -12,4 +13,6 @@ Main Key points to know is that, it affects the system on low level like Kernel,
 - As usual starts with Writing a program that prints `Hello, world!`
 - Using `cargo`, Rust’s package manager and build system. 
 
-At this point I wish I had ThinkPad with Arch
+At this point I wish I had ThinkPad with ==Arch==
+
+

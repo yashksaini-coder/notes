@@ -4,125 +4,19 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#ai  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#auth ",
-      "color": {
-        "a": 1,
-        "rgb": 3947231
-      }
-    },
-    {
-      "query": "tag:#project ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#http  ",
-      "color": {
-        "a": 1,
-        "rgb": 1288106
-      }
-    },
-    {
-      "query": "tag:#root  ",
-      "color": {
-        "a": 1,
-        "rgb": 14670122
-      }
-    },
-    {
-      "query": "path:\"Web Dev\" ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:Projects ",
-      "color": {
-        "a": 1,
-        "rgb": 12067619
-      }
-    },
-    {
-      "query": "tag:#typescript",
-      "color": {
-        "a": 1,
-        "rgb": 1609130
-      }
-    },
-    {
-      "query": "tag:#rag ",
-      "color": {
-        "a": 1,
-        "rgb": 11281361
-      }
-    },
-    {
-      "query": "file:excalidraw",
-      "color": {
-        "a": 1,
-        "rgb": 13899451
-      }
-    },
-    {
-      "query": "tag:#mongo  ",
-      "color": {
-        "a": 1,
-        "rgb": 2483269
-      }
-    },
-    {
-      "query": "tag:#backend  ",
-      "color": {
-        "a": 1,
-        "rgb": 12717985
-      }
-    },
-    {
-      "query": "tag:#docker  ",
-      "color": {
-        "a": 1,
-        "rgb": 768756
-      }
-    },
-    {
-      "query": "tag:#devops ",
-      "color": {
-        "a": 1,
-        "rgb": 2256212
-      }
-    },
-    {
-      "query": "tag:#rust",
-      "color": {
-        "a": 1,
-        "rgb": 14717522
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.851299376299376,
-  "lineSizeMultiplier": 2.08139293139293,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.531704781704782,
-  "repelStrength": 10.1351351351351,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 79,
-  "scale": 0.7605993148980111,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.6972809136787709,
+  "close": false
 }
