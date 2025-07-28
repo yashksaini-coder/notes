@@ -12,7 +12,7 @@ tags:
 
 #### ***Main Chapters:-***
 
-- [1. Getting Started in Rust](Getting Started in Rust)
+- [1. Getting_Started_in_Rust](Gettin_Started_in_Rust)
 
 
 

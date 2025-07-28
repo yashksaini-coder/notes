@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "936a312f7b92c89f",
+        "id": "de999874c417b36d",
         "type": "tabs",
         "children": [
           {
-            "id": "2db816bd429e3e0d",
+            "id": "d7995ece5d589936",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Getting Started in Rust.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Getting Started in Rust"
+              "title": "New tab"
             }
           }
         ]
@@ -196,9 +192,14 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "2db816bd429e3e0d",
+  "active": "d7995ece5d589936",
   "lastOpenFiles": [
-    "Rust/Getting Started in Rust.md",
+    "MongoDB/Salting.md",
+    "Projects/Project.md",
+    "AI/Typescrpit + Langbase.md",
+    "Rust/Gettin_Started_in_Rust.md",
+    "Getting.md",
+    "Gettin_Started.md",
     "Rust/The Rust Programming Language.md",
     "DevOps/Docker.md",
     "DevOps/Push to Docker Hub.md",
@@ -206,7 +207,6 @@
     "Web Dev/Web Dev Cohort-3.md",
     "Rust",
     "Projects/Ideas.md",
-    "Projects/Project.md",
     "Projects/Leetcode Journal/Leetcode-Journal.md",
     "Authentication/Simple Auth application.md",
     "Backend/BACKEND.md",
@@ -224,10 +224,6 @@
     "MongoDB/Relationships II.md",
     "MongoDB/3.MongoDB.md",
     "MongoDB/Relationships.md",
-    "MongoDB/Basics.md",
-    "MongoDB/Error Handling.md",
-    "MongoDB/Hashing.md",
-    "MongoDB/Salting.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
