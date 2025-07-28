@@ -87,5 +87,3 @@ docker build -t yashsaini/myapp:latest .
 # Push
 docker push yashsaini/myapp:latest
 ```
-
-Let me know if you're using a `docker-compose.yml`, GitHub Actions, or want to automate this in CI/CD — I can guide you through that as well.
