@@ -10,3 +10,9 @@ tags:
 > Advice:- if you are on windows, always use **wsl**. Don't setup rust in native PowerShell or terminal.
 
 
+#### ***Main Chapters:-***
+
+- [1. Getting Started in Rust](Getting Started in Rust)
+
+
+
