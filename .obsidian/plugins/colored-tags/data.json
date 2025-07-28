@@ -271,7 +271,8 @@
     "devops": 83,
     "docker": 84,
     "python": 85,
-    "mindsdb": 86
+    "mindsdb": 86,
+    "rust": 87
   },
   "_version": 3
 }

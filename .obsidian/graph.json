@@ -32,7 +32,7 @@
       "query": "tag:#http  ",
       "color": {
         "a": 1,
-        "rgb": 11168531
+        "rgb": 1288106
       }
     },
     {
@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 2256212
       }
+    },
+    {
+      "query": "tag:#rust",
+      "color": {
+        "a": 1,
+        "rgb": 14717522
+      }
     }
   ],
   "collapse-display": true,
@@ -116,6 +123,6 @@
   "repelStrength": 10.1351351351351,
   "linkStrength": 1,
   "linkDistance": 79,
-  "scale": 0.8035071713304098,
+  "scale": 0.5746136935750614,
   "close": true
 }
