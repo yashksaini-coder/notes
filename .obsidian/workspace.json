@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de999874c417b36d",
+        "id": "9ae6ccd33b46a39d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7995ece5d589936",
+            "id": "8d80d1cae9bdc9fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rust/The Rust Programming Language.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Rust Programming Language"
             }
           }
         ]
@@ -192,12 +196,12 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "d7995ece5d589936",
+  "active": "8d80d1cae9bdc9fd",
   "lastOpenFiles": [
+    "Rust/Gettin_Started_in_Rust.md",
     "MongoDB/Salting.md",
     "Projects/Project.md",
     "AI/Typescrpit + Langbase.md",
-    "Rust/Gettin_Started_in_Rust.md",
     "Getting.md",
     "Gettin_Started.md",
     "Rust/The Rust Programming Language.md",
