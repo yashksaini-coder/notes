@@ -18,6 +18,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "12795332b6d1c447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/Minor Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minor Goals"
+            }
           }
         ]
       }
@@ -196,6 +210,9 @@
   },
   "active": "e45b294dd64beefc",
   "lastOpenFiles": [
+    "Goals/Minor Goals.md",
+    "Goals/Major Goals.md",
+    "Goals/Goals.md",
     "AI/AI.md",
     "Rust/Gettin_Started_in_Rust.md",
     "Rust/The Rust Programming Language.md",
@@ -223,9 +240,6 @@
     "Backend/Router 101.md",
     "Backend",
     "MongoDB/Zod (Input Validation).md",
-    "Course Selling.md",
-    "MongoDB/Relationships II.md",
-    "MongoDB/3.MongoDB.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",

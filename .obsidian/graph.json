@@ -18,14 +18,14 @@
       "query": "tag:#rust",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11676929
       }
     },
     {
       "query": "tag:#root  ",
       "color": {
         "a": 1,
-        "rgb": 5525327
+        "rgb": 16777215
       }
     },
     {
@@ -115,14 +115,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1.99989604989605,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.32952182952183,
+  "repelStrength": 6.75675675675676,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.37083235589332236,
+  "linkDistance": 179,
+  "scale": 0.5515055651709341,
   "close": true
 }

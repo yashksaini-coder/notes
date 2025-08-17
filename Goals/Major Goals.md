@@ -20,6 +20,3 @@ These are the major goals that I have to complete and achieve in order to grow m
 - Learn & Build projects with:
 	- [ReactJS](https://roadmap.sh/react) 
 	- [NextJS](https://nextjs.org/learn)
-	- [Projects](https://www.youtube.com/watch?v=vUYopHWOURg&list=PLi6lphH3yQLrwY_fI4PTVvhr3s5n5W_m-)
-
-- **Jain online MCA** 
