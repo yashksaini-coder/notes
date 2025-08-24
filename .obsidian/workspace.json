@@ -18,8 +18,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "cbd53d9b080e2dde",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -194,7 +208,7 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "e45b294dd64beefc",
+  "active": "cbd53d9b080e2dde",
   "lastOpenFiles": [
     "Projects/Project.md",
     "Goals/Minor Goals.md",
