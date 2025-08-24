@@ -20,15 +20,17 @@
             }
           },
           {
-            "id": "cbd53d9b080e2dde",
+            "id": "3f20426831d467b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Rust/Gettin_Started.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Gettin_Started"
             }
           }
         ],
@@ -208,16 +210,16 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "cbd53d9b080e2dde",
+  "active": "3f20426831d467b5",
   "lastOpenFiles": [
+    "Rust/_ Index.md",
+    "Rust/Gettin_Started.md",
     "Projects/Project.md",
     "Goals/Minor Goals.md",
     "Backend/BACKEND.md",
     "Goals/Major Goals.md",
     "Goals/Goals.md",
     "AI/AI.md",
-    "Rust/Gettin_Started_in_Rust.md",
-    "Rust/The Rust Programming Language.md",
     "MongoDB/Salting.md",
     "AI/Typescrpit + Langbase.md",
     "Getting.md",

@@ -10,9 +10,9 @@ tags:
 > Advice:- if you are on windows, always use **wsl**. Don't setup rust in native PowerShell or terminal.
 
 
-#### ***Main Chapters:-***
+#### ***My Checkpoints:-***
 
-- [1. Getting_Started_in_Rust](Gettin_Started_in_Rust)
+- [1. Getting_Started_in_Rust](Gettin_Started.md)
 
 
 
