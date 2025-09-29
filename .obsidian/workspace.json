@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/Advance/Fetch API.md",
+                "file": "Backend/HTTP/Advance/Fetch API.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,8 +216,9 @@
       "ai-hub:Generate content": false
     }
   },
-  "active": "c0521cc4da67fec9",
+  "active": "e45b294dd64beefc",
   "lastOpenFiles": [
+    "Backend/HTTP/Advance/Fetch API.md",
     "Backend/BACKEND.md",
     "Backend/Router 101.md",
     "Rust/Gettin_Started.md",
@@ -243,9 +244,8 @@
     "DevOps",
     "AI/Mastra + mem0.md",
     "MongoDB/Mongo Application.md",
-    "HTTP/Advance/Fetch API.md",
-    "HTTP/Advance/Headers.md",
-    "HTTP/Advance/HTTP Servers.md",
+    "Backend/HTTP/Advance/Headers.md",
+    "Backend/HTTP/Advance/HTTP Servers.md",
     "Backend",
     "MongoDB/Zod (Input Validation).md",
     "MongoDB/structure.png",
