@@ -1,11 +1,11 @@
 {
-  "cssTheme": "LYT Mode",
-  "interfaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Code",
-  "baseFontSize": 17,
+  "cssTheme": "iB Writer",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "textFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "accentColor": "",
   "theme": "obsidian",
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": true
 }
