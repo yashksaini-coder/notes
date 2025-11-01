@@ -204,8 +204,7 @@
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "ai-hub:Generate content": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e45b294dd64beefc",
