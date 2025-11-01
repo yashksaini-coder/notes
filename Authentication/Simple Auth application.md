@@ -1,7 +1,7 @@
 ---
 tags:
-  - auth
   - project
+  - auth
 ---
 ---
 #### Creating a simple Auth Backend and connecting it with Frontend side

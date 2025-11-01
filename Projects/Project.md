@@ -1,6 +1,6 @@
 ---
 tags:
-  - root
+  - project
 ---
 
 This note will focus on the different projects ideas and builds we are going to be making in this year. Expanding our knowledge and <u>Tech Stack</u>

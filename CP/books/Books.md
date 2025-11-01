@@ -1,0 +1,6 @@
+---
+tags:
+  - book
+---
+---
+- [[Competitive Programming]]

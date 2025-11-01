@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "tag:#book ",
+      "color": {
+        "a": 1,
+        "rgb": 9605843
+      }
     }
   ],
   "collapse-display": true,
@@ -118,11 +125,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.7078125,
-  "collapse-forces": true,
-  "centerStrength": 0.32952182952183,
-  "repelStrength": 6.75675675675676,
+  "collapse-forces": false,
+  "centerStrength": 0.549479166666667,
+  "repelStrength": 11.591796875,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 0.44875949575252244,
+  "linkDistance": 30,
+  "scale": 0.3224970203114795,
   "close": true
 }
