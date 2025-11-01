@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3601716b144b347b",
+        "id": "732d68887754b38e",
         "type": "tabs",
         "children": [
           {
-            "id": "cf51b152e2495556",
+            "id": "964b9a9c0c086a4e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,7 +83,6 @@
       {
         "id": "eb59c92d01abaaa5",
         "type": "tabs",
-        "dimension": 43.8,
         "children": [
           {
             "id": "ce8a9832db9acab5",
@@ -132,16 +131,6 @@
             }
           },
           {
-            "id": "aec28947a3d69d06",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "8ce76bbf56734498",
             "type": "leaf",
             "state": {
@@ -168,15 +157,7 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "230230bf971bbabb",
-        "type": "tabs",
-        "dimension": 56.2,
-        "children": [
+          },
           {
             "id": "e45b294dd64beefc",
             "type": "leaf",
@@ -188,8 +169,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6cac594b82aae178",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,6 +207,7 @@
   "active": "e45b294dd64beefc",
   "lastOpenFiles": [
     "Rust/Rust.md",
+    "Rust/books/rust-programming-2018.pdf",
     "Rust/Untitled.md",
     "Rust/Welcome.md",
     "Rust",
@@ -229,7 +222,6 @@
     "Rust-101/hello_world",
     "Rust-101",
     "Rust/README.md",
-    "Rust/hello_world/hello_world.rs",
     "example.rs.md",
     "Rust/Gettin_Started.md",
     "Backend/HTTP/Advance/Fetch API.md",
@@ -249,7 +241,6 @@
     "MindsDB commands.md",
     "Web Dev/Web Dev Cohort-3.md",
     "Projects/Ideas.md",
-    "Projects/Leetcode Journal/Leetcode-Journal.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
