@@ -11,17 +11,28 @@
             "id": "1a560253681205c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CP/Competitive Programming.md",
-                "mode": "source",
-                "source": false
+                "file": "CP/books/Competitive-Programmer-Handbook.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Competitive Programming"
+              "icon": "lucide-file-text",
+              "title": "Competitive-Programmer-Handbook"
+            }
+          },
+          {
+            "id": "11c2cda40859bfef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -207,10 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45b294dd64beefc",
+  "active": "11c2cda40859bfef",
   "lastOpenFiles": [
-    "CP/Competitive Programming.md",
+    "CP/books/Competitive-Programmer-Handbook.pdf",
     "CP/books/Books.md",
+    "CP/Competitive Programming.md",
     "Authentication/Simple Auth application.md",
     "Projects/Project.md",
     "Projects/Ideas.md",
@@ -222,7 +234,6 @@
     "Backend/BACKEND.md",
     "Rust/books/rust-programming-2018.pdf",
     "---.md",
-    "CP/books/Competitive-Programmer-Handbook.pdf",
     "CP/books",
     "CP/Competitive-Programmer-Handbook.pdf",
     "Competitive-Programmer-Handbook.pdf",
@@ -244,7 +255,6 @@
     "Goals/Goals.md",
     "AI/AI.md",
     "MongoDB/Salting.md",
-    "AI/Typescrpit + Langbase.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
