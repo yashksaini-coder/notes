@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "839c8fb86c15fd22",
+        "id": "696f4781d5c34c15",
         "type": "tabs",
         "children": [
           {
-            "id": "1a560253681205c2",
+            "id": "dbab88372f0f3d11",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CP/books/Competitive-Programmer-Handbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Competitive-Programmer-Handbook"
-            }
-          },
-          {
-            "id": "11c2cda40859bfef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "084a077352550217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45b294dd64beefc",
+  "active": "dbab88372f0f3d11",
   "lastOpenFiles": [
-    "Untitled.md",
     "CP/books/Competitive-Programmer-Handbook.pdf",
+    "Untitled.md",
     "CP/books/Books.md",
     "CP/Competitive Programming.md",
     "Authentication/Simple Auth application.md",
@@ -269,7 +240,6 @@
     "Goals/Major Goals.md",
     "Goals/Goals.md",
     "AI/AI.md",
-    "MongoDB/Salting.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
