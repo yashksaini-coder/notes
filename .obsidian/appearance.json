@@ -1,10 +1,10 @@
 {
-  "cssTheme": "iB Writer",
+  "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
   "textFontFamily": "CaskaydiaMono Nerd Font Mono",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "accentColor": "",
+  "accentColor": "#ad27dd",
   "theme": "obsidian",
   "showRibbon": true,
   "nativeMenus": true
