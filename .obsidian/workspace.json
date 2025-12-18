@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -204,15 +204,16 @@
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "gemini-assistant:New Gemini chat": false,
-      "chat-with-bard:New Gemini Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c55571a9f68a9de8",
+  "active": "e45b294dd64beefc",
   "lastOpenFiles": [
-    "Gemini Chats/New Chat.gemini",
     "DSA/DSA 101.md",
+    "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Gemini Chats/New Chat.gemini",
     "CP/Competitive Programming.md",
     "Gemini Chats",
     "Untitled.md",
@@ -233,8 +234,6 @@
     "CP/books",
     "CP/Competitive-Programmer-Handbook.pdf",
     "Competitive-Programmer-Handbook.pdf",
-    "CP",
-    "Rust/books/rust_book_2022.pdf",
     "Rust/Rust.md",
     "Rust/Untitled.md",
     "Rust/Welcome.md",
