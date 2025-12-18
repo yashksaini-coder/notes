@@ -1,3 +1,9 @@
+---
+tags:
+  - rust
+---
+
+
 Following is a list of Rust resources to watch in freetime:-
 
 - [Rust Crash Course](https://www.youtube.com/watch?v=R33h77nrMqc&list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)

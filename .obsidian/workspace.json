@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "696f4781d5c34c15",
+        "id": "4dbd942189678697",
         "type": "tabs",
         "children": [
           {
-            "id": "c55571a9f68a9de8",
+            "id": "413bef5c488ef685",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f5e9a3b92ce42121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA 101.md",
+                "file": "C-101/C-101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA 101"
+              "title": "C-101"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,18 +176,6 @@
             }
           },
           {
-            "id": "e45b294dd64beefc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "6cac594b82aae178",
             "type": "leaf",
             "state": {
@@ -189,12 +190,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -204,24 +205,40 @@
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "e45b294dd64beefc",
+  "active": "f5e9a3b92ce42121",
   "lastOpenFiles": [
-    "DSA/DSA 101.md",
+    "Rust/Videos.md",
+    "Rust/Books.md",
+    "Rust/Rust.md",
+    "Rust/Resources.md",
+    "Rust/Language Basics.md",
+    "Rust/Environment Setup.md",
+    "C-101/C-101.md",
+    "Untitled.base",
     "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
+    "C-101",
+    "C/C (programming-language).md",
+    "C/C/Welcome.md",
+    "C/C",
+    "C",
+    "CP/Competitive Programming.md",
+    "Goals/Minor Goals.md",
+    "Goals/Major Goals.md",
+    "Goals/Goals.md",
+    "CP/books/Books.md",
+    "DSA/DSA 101.md",
+    "Projects/Project.md",
     "copilot/copilot-conversations",
     "copilot",
     "Gemini Chats/New Chat.gemini",
-    "CP/Competitive Programming.md",
     "Gemini Chats",
-    "Untitled.md",
     "DSA",
     "CP/books/Competitive-Programmer-Handbook.pdf",
-    "CP/books/Books.md",
     "Authentication/Simple Auth application.md",
-    "Projects/Project.md",
     "Projects/Ideas.md",
     "2025-11-01.md",
     "Backend/HTTP/Advance/Fetch API.md",
@@ -229,22 +246,7 @@
     "Authentication/2.Auth.md",
     "Projects/Leetcode Journal/Supabase-Authentication.md",
     "Backend/BACKEND.md",
-    "Rust/books/rust-programming-2018.pdf",
     "---.md",
-    "CP/books",
-    "CP/Competitive-Programmer-Handbook.pdf",
-    "Competitive-Programmer-Handbook.pdf",
-    "Rust/Rust.md",
-    "Rust/Untitled.md",
-    "Rust/Welcome.md",
-    "Rust-101/README.md",
-    "Rust/README.md",
-    "example.rs.md",
-    "Rust/Gettin_Started.md",
-    "Backend/Router 101.md",
-    "Goals/Minor Goals.md",
-    "Goals/Major Goals.md",
-    "Goals/Goals.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",

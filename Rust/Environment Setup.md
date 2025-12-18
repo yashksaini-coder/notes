@@ -1,3 +1,8 @@
+---
+tags:
+  - rust
+---
+
 # 🦀 Installing Rust & Cargo
 
 A 2-minute guide to get the full Rust toolchain on **macOS**, **Linux** or **Windows**  

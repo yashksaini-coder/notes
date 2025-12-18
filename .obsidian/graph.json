@@ -18,7 +18,7 @@
       "query": "tag:#rust",
       "color": {
         "a": 1,
-        "rgb": 11676929
+        "rgb": 13778703
       }
     },
     {
@@ -71,17 +71,10 @@
       }
     },
     {
-      "query": "tag:#High ",
+      "query": "tag:#programming ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#Medium  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 4591243
       }
     },
     {
@@ -116,7 +109,14 @@
       "query": "tag:#book ",
       "color": {
         "a": 1,
-        "rgb": 9605843
+        "rgb": 16772608
+      }
+    },
+    {
+      "query": "tag:#c ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -125,11 +125,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.7078125,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.549479166666667,
   "repelStrength": 11.591796875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2202132300060011,
+  "scale": 0.3663725778576473,
   "close": true
 }
