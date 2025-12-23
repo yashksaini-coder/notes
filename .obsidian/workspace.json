@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4dbd942189678697",
+        "id": "242ed321c3d10da6",
         "type": "tabs",
         "children": [
           {
-            "id": "413bef5c488ef685",
+            "id": "a8fb394fcae14766",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "602d7fbf5d78f714",
@@ -195,17 +192,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "413bef5c488ef685",
+  "active": "a8fb394fcae14766",
   "lastOpenFiles": [
+    "C-101/History.md",
+    "C-101/C-101.md",
+    "C-101/Books/C_Book_2nd_Edition.pdf",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "C-101/C-101.md~",
     "Rust/Rust.md",
-    "C-101/C-101.md",
     "Rust/Videos.md",
     "Rust/Books.md",
     "Rust/Resources.md",
     "Rust/Language Basics.md",
     "Rust/Environment Setup.md",
-    "Untitled.base",
     "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
     "C-101",
     "C/C (programming-language).md",
@@ -220,11 +222,6 @@
     "DSA/DSA 101.md",
     "Projects/Project.md",
     "copilot/copilot-conversations",
-    "copilot",
-    "Gemini Chats/New Chat.gemini",
-    "Gemini Chats",
-    "DSA",
-    "CP/books/Competitive-Programmer-Handbook.pdf",
     "Authentication/Simple Auth application.md",
     "Projects/Ideas.md",
     "2025-11-01.md",
@@ -232,7 +229,6 @@
     "MongoDB/Mongo Application.md",
     "Authentication/2.Auth.md",
     "Projects/Leetcode Journal/Supabase-Authentication.md",
-    "Backend/BACKEND.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
