@@ -21,4 +21,3 @@ We can also specify the output name using the `-o` flag of the gcc compiler.
 gcc hello.c -o hello
 ```
 
-[[Programs/]]
