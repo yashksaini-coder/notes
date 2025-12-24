@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "018bd5fead557139",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f43b48c44b015c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb3a51cf9422398",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C-101/Books/C_Book_2nd_Edition.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C_Book_2nd_Edition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c04ed99a4ea961d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "429a070de24e272e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c5e42afed7a997",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c95995f094b69115",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#c",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d229b48e5947277",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "602d7fbf5d78f714",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb59c92d01abaaa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8a9832db9acab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "709dc9a4092063d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46ed05dcc839c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8ce76bbf56734498",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cccddbeded5e695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6cac594b82aae178",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1bb3a51cf9422398",
+  "lastOpenFiles": [
+    "C-101/C-101.md",
+    "C-101/C Videos.md",
+    "C-101/Books.md",
+    "Rust/Books.md",
+    "MongoDB/Hashing.md",
+    "C-101/Symbolic Constants.md",
+    "C-101/Programs/algorithm.c~",
+    "C-101/Books/C_Book_2nd_Edition.pdf",
+    "C-101/Symbolic Constants.md~",
+    "C-101/Programs/algorithm",
+    "C-101/Algorithms.md",
+    "C-101/Programs/algorithm.c",
+    "Pasted image 20251225011205.png",
+    "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
+    "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
+    "C-101/History.md",
+    "C-101/Books/O Reilly - Practical C Programming, 3rd Edition.pdf",
+    "C-101/Books/C-programming-A-modern-approach-2nd.pdf.crdownload",
+    "C-101/Books/Unconfirmed 89389.crdownload",
+    "C-101/Hello World.md",
+    "C-101/hello_world.c.md",
+    "Rust/Rust.md",
+    "Rust/Videos.md",
+    "Rust/Resources.md",
+    "Rust/Language Basics.md",
+    "Rust/Environment Setup.md",
+    "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
+    "C/C (programming-language).md",
+    "C/C/Welcome.md",
+    "CP/Competitive Programming.md",
+    "Goals/Minor Goals.md",
+    "Goals/Major Goals.md",
+    "Goals/Goals.md",
+    "CP/books/Books.md",
+    "DSA/DSA 101.md",
+    "Projects/Project.md",
+    "Authentication/Simple Auth application.md",
+    "MongoDB/structure.png",
+    "MongoDB/crud.png",
+    "Pasted image 20250427230016.png",
+    "Authentication/token.png",
+    "Authentication/jwt-success.png",
+    "Authentication/auth-jwt.png",
+    "Pasted image 20250423004511.png",
+    "Authentication/auth-headers.png",
+    "Authentication/main-authentication.png",
+    "Untitled.canvas"
+  ]
+}
