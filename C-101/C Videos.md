@@ -1,0 +1,12 @@
+---
+tags:
+  - c
+---
+**Listen to them as podcasts anytime**
+
+- **![Learn C Programming](https://www.youtube.com/watch?v=PaPN51Mm5qQ&t=154s&pp=ygUWYyBsYW5ndWFnZSBmdWxsIGNvdXJzZQ%3D%3D)**
+- **![Bro Code](https://www.youtube.com/watch?v=xND0t1pr3KY&t=904s&pp=ygUWYyBsYW5ndWFnZSBmdWxsIGNvdXJzZQ%3D%3D)**
+- **![C Memory Management](https://www.youtube.com/watch?v=rJrd2QMVbGM&pp=ygUWYyBsYW5ndWFnZSBmdWxsIGNvdXJzZQ%3D%3D)**
+- **![Pointers in C](https://www.youtube.com/watch?v=MIL2BK02X8A&pp=ygUWYyBsYW5ndWFnZSBmdWxsIGNvdXJzZQ%3D%3D)**
+- **![Beginner To Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o&pp=ygUWYyBsYW5ndWFnZSBmdWxsIGNvdXJzZQ%3D%3D)**
+- **[Projects Playlist](https://www.youtube.com/playlist?list=PLdNUbYq5poiW6cumyg2w35fI9w9ivfZcD)**
