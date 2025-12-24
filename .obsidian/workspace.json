@@ -13,16 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-101/C-101.md",
+                "file": "C-101/Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-101"
+              "title": "Algorithms"
             }
           },
           {
             "id": "98ebeecefd064bc5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C Programming for the Absolute Beginner, Second Edition ( PDFDrive )"
+            }
+          },
+          {
+            "id": "e94fbe4fdfedaac9",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -33,8 +45,7 @@
               "title": "C_Book_2nd_Edition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "602d7fbf5d78f714",
@@ -210,22 +220,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "98ebeecefd064bc5",
+  "active": "a8fb394fcae14766",
   "lastOpenFiles": [
+    "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
+    "C-101/Algorithms.md",
+    "C-101/C-101.md",
+    "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
     "C-101/Books/C-programming-A-modern-approach-2nd.pdf.crdownload",
     "C-101/Books/O Reilly - Practical C Programming, 3rd Edition.pdf",
     "C-101/Books/Unconfirmed 89389.crdownload",
-    "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
     "C-101/Books/Unconfirmed 539209.crdownload",
     "C-101/Programs/hello.c~",
-    "C-101/C-101.md",
-    "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/Hello World.md",
     "C-101/hello_world.c.md",
     "C-101/Programs/hello",
     "C-101/Programs/a.out",
-    "C-101/Programs/hello.c",
     "C-101/History.md",
     "Rust/Rust.md",
     "Rust/Videos.md",
@@ -247,7 +257,6 @@
     "Projects/Ideas.md",
     "2025-11-01.md",
     "Backend/HTTP/Advance/Fetch API.md",
-    "MongoDB/Mongo Application.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
