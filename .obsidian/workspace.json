@@ -11,13 +11,30 @@
             "id": "a8fb394fcae14766",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C-101/C-101.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "C-101"
+            }
+          },
+          {
+            "id": "98ebeecefd064bc5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C-101/Books/C_Book_2nd_Edition.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C_Book_2nd_Edition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "602d7fbf5d78f714",
@@ -192,16 +210,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a8fb394fcae14766",
+  "active": "98ebeecefd064bc5",
   "lastOpenFiles": [
-    "C-101/History.md",
+    "C-101/Programs/hello.c~",
     "C-101/C-101.md",
     "C-101/Books/C_Book_2nd_Edition.pdf",
+    "C-101/Hello World.md",
+    "C-101/hello_world.c.md",
+    "C-101/Programs/hello",
+    "C-101/Programs/a.out",
+    "C-101/Programs/hello.c",
+    "C-101/History.md",
+    "C-101/Programs",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "C-101/C-101.md~",
     "Rust/Rust.md",
     "Rust/Videos.md",
     "Rust/Books.md",
@@ -209,11 +233,8 @@
     "Rust/Language Basics.md",
     "Rust/Environment Setup.md",
     "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
-    "C-101",
     "C/C (programming-language).md",
     "C/C/Welcome.md",
-    "C/C",
-    "C",
     "CP/Competitive Programming.md",
     "Goals/Minor Goals.md",
     "Goals/Major Goals.md",
@@ -221,14 +242,11 @@
     "CP/books/Books.md",
     "DSA/DSA 101.md",
     "Projects/Project.md",
-    "copilot/copilot-conversations",
     "Authentication/Simple Auth application.md",
     "Projects/Ideas.md",
     "2025-11-01.md",
     "Backend/HTTP/Advance/Fetch API.md",
     "MongoDB/Mongo Application.md",
-    "Authentication/2.Auth.md",
-    "Projects/Leetcode Journal/Supabase-Authentication.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
