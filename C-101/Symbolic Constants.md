@@ -113,3 +113,16 @@ Status s = SUCCESS;
 A symbolic constant is **a named fixed value** used instead of raw numbers or strings to make code **cleaner, safer, and easier to maintain**.
 
 If you want, I can also explain **when NOT to use `#define`**, or show **real-world examples from system-level or competitive programming**.
+
+---
+
+**Advantages:**
+
+1. **Simple and Efficient**: **#define** directives are straightforward and efficient in replacing constant values throughout the code.
+2. **No Memory Allocation**: Symbolic constants defined using **#define** do not occupy memory, as they are replaced during the preprocessing stage.
+3. **No Scope Limitation**: **#define** constants have global scope and are accessible from any part of the program.
+
+**Disadvantages of :**
+
+1. **No Type Checking**: **#define** does not perform type checking, so errors may occur if the constant is used incorrectly.
+2. **Lack of Debugging Support**: Since **#define** constants are replaced before compilation, they may not appear in debugging information, making debugging more challenging.
