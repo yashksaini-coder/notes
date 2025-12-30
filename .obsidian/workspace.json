@@ -22,49 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "29f92ee4be9a83b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7df5603d447ad961",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "C-101/C-101.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of C-101"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -241,9 +198,10 @@
   },
   "active": "a632c51eab6f5e51",
   "lastOpenFiles": [
-    "Projects/Git graph.md",
-    "C-101/C-101.md",
     "C-101/History.md",
+    "Basic things to understand first.md",
+    "C-101/C-101.md",
+    "Projects/Git graph.md",
     "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/C Videos.md",
     "C-101/Books.md",
@@ -277,7 +235,6 @@
     "Goals/Goals.md",
     "CP/books/Books.md",
     "DSA/DSA 101.md",
-    "Projects/Project.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
