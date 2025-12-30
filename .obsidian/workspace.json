@@ -4,19 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "1f43b48c44b015c6",
+        "id": "c4813c4baac272c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb3a51cf9422398",
+            "id": "a632c51eab6f5e51",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "C-101/Books/C_Book_2nd_Edition.pdf"
+                "file": "C-101/C-101.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "C_Book_2nd_Edition"
+              "icon": "lucide-file",
+              "title": "C-101"
+            }
+          }
+        ]
+      },
+      {
+        "id": "29f92ee4be9a83b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df5603d447ad961",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "C-101/C-101.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of C-101"
             }
           }
         ]
@@ -194,16 +239,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bb3a51cf9422398",
+  "active": "a632c51eab6f5e51",
   "lastOpenFiles": [
+    "Projects/Git graph.md",
     "C-101/C-101.md",
+    "C-101/History.md",
+    "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/C Videos.md",
     "C-101/Books.md",
     "Rust/Books.md",
     "MongoDB/Hashing.md",
     "C-101/Symbolic Constants.md",
     "C-101/Programs/algorithm.c~",
-    "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/Symbolic Constants.md~",
     "C-101/Programs/algorithm",
     "C-101/Algorithms.md",
@@ -211,7 +258,6 @@
     "Pasted image 20251225011205.png",
     "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
     "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
-    "C-101/History.md",
     "C-101/Books/O Reilly - Practical C Programming, 3rd Edition.pdf",
     "C-101/Books/C-programming-A-modern-approach-2nd.pdf.crdownload",
     "C-101/Books/Unconfirmed 89389.crdownload",
@@ -232,7 +278,6 @@
     "CP/books/Books.md",
     "DSA/DSA 101.md",
     "Projects/Project.md",
-    "Authentication/Simple Auth application.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
