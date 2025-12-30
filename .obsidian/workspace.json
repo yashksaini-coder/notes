@@ -11,14 +11,12 @@
             "id": "a632c51eab6f5e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C-101/C-101.md",
-                "mode": "source",
-                "source": false
+                "file": "C-101/Books/C_Book_2nd_Edition.pdf"
               },
-              "icon": "lucide-file",
-              "title": "C-101"
+              "icon": "lucide-file-text",
+              "title": "C_Book_2nd_Edition"
             }
           }
         ]
@@ -198,12 +196,12 @@
   },
   "active": "a632c51eab6f5e51",
   "lastOpenFiles": [
-    "C-101/History.md",
-    "Basic things to understand first.md",
+    "C-101/Basic things to understand first.md",
     "C-101/C-101.md",
+    "C-101/C Videos.md",
+    "C-101/History.md",
     "Projects/Git graph.md",
     "C-101/Books/C_Book_2nd_Edition.pdf",
-    "C-101/C Videos.md",
     "C-101/Books.md",
     "Rust/Books.md",
     "MongoDB/Hashing.md",
