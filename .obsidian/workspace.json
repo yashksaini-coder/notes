@@ -6,19 +6,8 @@
       {
         "id": "c4813c4baac272c4",
         "type": "tabs",
+        "dimension": 40.77733860342556,
         "children": [
-          {
-            "id": "a632c51eab6f5e51",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "C-101/Books/C-programming-A-modern-approach-2nd.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C-programming-A-modern-approach-2nd"
-            }
-          },
           {
             "id": "d05fca6775d8d9f9",
             "type": "leaf",
@@ -41,6 +30,25 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c30fbf31f43b514",
+        "type": "tabs",
+        "dimension": 59.22266139657444,
+        "children": [
+          {
+            "id": "a632c51eab6f5e51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C-101/Books/C-programming-A-modern-approach-2nd.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C-programming-A-modern-approach-2nd"
             }
           }
         ]
@@ -100,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 200
   },
   "right": {
     "id": "602d7fbf5d78f714",
@@ -218,12 +226,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a632c51eab6f5e51",
+  "active": "d05fca6775d8d9f9",
   "lastOpenFiles": [
+    "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
     "C-101/Books.md",
     "C-101/Basic things to understand first.md",
     "C-101/History.md",
-    "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
     "C-101/Books/C_Book_2nd_Edition.pdf",
     "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
     "C-101/Symbolic Constants.md",
