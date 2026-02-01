@@ -10,16 +10,101 @@
           {
             "id": "a632c51eab6f5e51",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9057c98be83382f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "C-101/Books/C-programming-A-modern-approach-2nd.pdf"
+                "file": "Projects/Leetcode Journal/Supabase-Authentication.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "C-programming-A-modern-approach-2nd"
+              "icon": "lucide-file",
+              "title": "Supabase-Authentication"
+            }
+          },
+          {
+            "id": "978c163e1dfcef2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authentication/Creating our own middleware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creating our own middleware"
+            }
+          },
+          {
+            "id": "18efe315a90897bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Agno-Agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agno-Agents"
+            }
+          },
+          {
+            "id": "b66eb3af2b0bb021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Typescrpit + Langbase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typescrpit + Langbase"
+            }
+          },
+          {
+            "id": "24c0edd7c2cb7b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-101/Basic things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic things"
+            }
+          },
+          {
+            "id": "a3c373f37998b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CP/Competitive Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Competitive Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,8 +251,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -194,22 +279,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a632c51eab6f5e51",
+  "active": "a3c373f37998b4d9",
   "lastOpenFiles": [
+    "C-101/Basic things.md",
+    "AI/Typescrpit + Langbase.md",
+    "AI/Agno-Agents.md",
+    "AI/AI.md",
+    "Authentication/Creating our own middleware.md",
+    "Projects/Leetcode Journal/Supabase-Authentication.md",
+    "MongoDB/CRUD operations.md",
+    "C-101/C-101.md",
+    "CP/books/Competitive-Programmer-Handbook.pdf",
+    "CP/Competitive Programming.md",
+    "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
+    "C-101/printf(...).md",
     "Rust/books/rust_book_2022.pdf",
     "Rust/books/rust-programming-2018.pdf",
     "Rust/books/Brenden Matthews - Code Like a Pro in Rust - 2023.pdf",
     "DSA/DSA 101.md",
-    "CP/books/Competitive-Programmer-Handbook.pdf",
-    "C-101/Basic things.md",
-    "C-101/Books/C-programming-A-modern-approach-2nd.pdf",
-    "C-101/printf(...).md",
     "Untitled.md",
     "C-101/Compiling & Linking.md",
     "CP/books/Books.md",
     "C-101/Books.md",
     "C-101/C Videos.md",
-    "C-101/C-101.md",
     "C-101/Hello World.md",
     "C-101/Symbolic Constants.md",
     "C-101/History.md",
@@ -218,7 +310,6 @@
     "C-101/bin",
     "C-101/Programs/algorithm.c~",
     "C-101/Books/C_Book_2nd_Edition.pdf",
-    "C-101/Books/C Programming for the Absolute Beginner, Second Edition ( PDFDrive ).pdf",
     "Projects/Git graph.md",
     "Rust/Books.md",
     "MongoDB/Hashing.md",
@@ -227,12 +318,6 @@
     "C-101/hello_world.c.md",
     "Rust/Rust.md",
     "Rust/Videos.md",
-    "Rust/Resources.md",
-    "Rust/Language Basics.md",
-    "Rust/Environment Setup.md",
-    "copilot/copilot-conversations/I'm_starting_my_learning_journey_of_CPP_with_DSA_therefore@20251210_230307.md",
-    "C/C (programming-language).md",
-    "C/C/Welcome.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
