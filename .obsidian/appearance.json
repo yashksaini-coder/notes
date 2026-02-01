@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "SALEM",
   "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
   "textFontFamily": "CaskaydiaMono Nerd Font Mono",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "accentColor": "#ad27dd",
+  "accentColor": "#10c9ea",
   "theme": "obsidian",
   "showRibbon": true,
   "nativeMenus": true
