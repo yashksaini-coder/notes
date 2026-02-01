@@ -279,8 +279,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c373f37998b4d9",
+  "active": "20c5e42afed7a997",
   "lastOpenFiles": [
+    "C-101/Programs/bin/algorithm",
+    "C-101/Programs/algorithm.c~",
+    "C-101/Programs/bin",
     "C-101/Basic things.md",
     "AI/Typescrpit + Langbase.md",
     "AI/Agno-Agents.md",
@@ -308,8 +311,6 @@
     "C-101/bin/program",
     "C-101/Programs/hello.c~",
     "C-101/bin",
-    "C-101/Programs/algorithm.c~",
-    "C-101/Books/C_Book_2nd_Edition.pdf",
     "Projects/Git graph.md",
     "Rust/Books.md",
     "MongoDB/Hashing.md",
@@ -317,7 +318,6 @@
     "Pasted image 20251225011205.png",
     "C-101/hello_world.c.md",
     "Rust/Rust.md",
-    "Rust/Videos.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
