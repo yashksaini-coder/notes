@@ -49,7 +49,7 @@
   "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
-  "dualPane": false,
+  "dualPane": true,
   "dualPaneOrientation": "horizontal",
   "showTooltips": false,
   "showTooltipPath": true,

@@ -7,5 +7,6 @@
   "accentColor": "#10c9ea",
   "theme": "obsidian",
   "showRibbon": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": []
 }
