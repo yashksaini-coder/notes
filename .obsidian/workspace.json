@@ -18,8 +18,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e794b3cd5d1b68af",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Go/Books/dokumen.pub_learning-go-an-idiomatic-approach-to-real-world-go-programming-1492077216-9781492077213-w-4707635.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "dokumen.pub_learning-go-an-idiomatic-approach-to-real-world-go-programming-1492077216-9781492077213-w-4707635"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +221,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "06752edf0edb4de7",
+  "active": "e794b3cd5d1b68af",
   "lastOpenFiles": [
-    "C-101/C-101.md",
-    "Backend/Router 101.md",
+    "Go/Books/Go projects blueprints.pdf",
+    "Go/Books/Learning-Go-latest.pdf",
+    "Go/Books/dokumen.pub_learning-go-an-idiomatic-approach-to-real-world-go-programming-1492077216-9781492077213-w-4707635.pdf",
     "Backend/BACKEND.md",
+    "Backend/Router 101.md",
+    "C-101/C-101.md",
     "CP/books/Books.md",
     "C-101/Basic things.md",
     "AI/Typescrpit + Langbase.md",
@@ -239,14 +255,11 @@
     "C-101/Hello World.md",
     "C-101/Symbolic Constants.md",
     "C-101/History.md",
-    "C-101/bin/program",
-    "C-101/Programs/hello.c~",
     "Projects/Git graph.md",
     "Rust/Books.md",
     "MongoDB/Hashing.md",
     "C-101/Algorithms.md",
     "Pasted image 20251225011205.png",
-    "C-101/hello_world.c.md",
     "MongoDB/structure.png",
     "MongoDB/crud.png",
     "Pasted image 20250427230016.png",
